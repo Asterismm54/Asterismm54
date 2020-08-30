@@ -1,4 +1,4 @@
-I am a fan of projects such as OpenBSD, FreeBSD, PostgreSQL, PostGIS, QGIS, OSCAR EMR, OpenSSL, Hadoop, Spark, LibreOffice, CentOS, Firefox the list goes on.. Just a big fan of free and open source in general; I support FOSS projects in different ways.
+I am a fan of projects such as OpenBSD, FreeBSD, PostgreSQL, PostGIS, QGIS, OSCAR EMR, OpenSSL, Hadoop, Spark, LibreOffice, CentOS, Firefox the list goes on.. I support FOSS projects in different ways.
 
 Beyond the FOSS and GIS inclinations, I have an interest in population health data analysis and health information systems.  I work at a hospital.
 
