@@ -2,4 +2,4 @@ I am a fan of projects such as OpenBSD, FreeBSD, PostgreSQL, PostGIS, QGIS, OSCA
 
 Beyond the obvious FOSS and GIS inclinations, I have an interest in population health data analysis and health information systems.  I work at a hospital.
 
-"You can choose to be a law-breaker, but we apply the laws of Thermodynamics around here.  Good luck."  - no idea
+"You can choose to be a lawbreaker, but we apply the laws of Thermodynamics around here.  Good luck." 
