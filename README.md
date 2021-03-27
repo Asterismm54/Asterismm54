@@ -2,7 +2,7 @@ I am a fan of projects such as OpenBSD, FreeBSD, PostgreSQL, PostGIS, QGIS, OSCA
 
 I work at a health system made up of multiple hospitals; I am an HIS subject matter expert and clinical application developer.
 
-Are you creating a proof of concept for a health-focussed open source project? Try: generatedata.com to generate dummy data for your project.
+Are you creating a proof of concept for a health-focussed open source project? Try: generatedata.com to generate dummy data for your project or consider using data from the Research Data Centres (RDC) program.
 
 "Please consider spatial autocorrelation in your analysis today!"
 
