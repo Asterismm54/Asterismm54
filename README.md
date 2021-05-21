@@ -1,4 +1,4 @@
-
+![Alt Text](https://user-images.githubusercontent.com/65868461/119200030-237ab780-ba5a-11eb-8f2f-1cbc34408a9e.gif)
                                   
                                   ** "Watch out for the MAUP (Modifiable Area Unit Problem)" **
                                   
