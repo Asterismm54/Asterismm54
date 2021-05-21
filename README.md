@@ -7,4 +7,4 @@ I work at a health system made up of multiple hospitals; I am an HIS subject mat
 ** "Please consider spatial autocorrelation in your analysis today!" **
 
 
-![](https://github.com/ghpvc/?username=asterismm54)
+![](https://komarev.com/ghpvc/?username=asterismm54)
