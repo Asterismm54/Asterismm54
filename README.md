@@ -12,4 +12,4 @@
 
                              ** "Please consider spatial autocorrelation in your analysis today!" **
 
-![](https://komarev.com/ghpvc/?username=asterismm54&color=darkred)
+![](https://komarev.com/ghpvc/?username=asterismm54&color=FF0000)
