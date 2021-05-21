@@ -1,4 +1,4 @@
- ![Hello](C:\Users\Ken\Downloads\Code.gif)
+
                                   
                                   ** "Watch out for the MAUP (Modifiable Area Unit Problem)" **
                                   
