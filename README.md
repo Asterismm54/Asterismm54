@@ -1,3 +1,5 @@
+ ![image](https://user-images.githubusercontent.com/65868461/119198911-1fe63100-ba58-11eb-8f29-f9268a98f686.png)
+                                  
                                   ** "Watch out for the MAUP (Modifiable Area Unit Problem)" **
                                   
 ```diff
