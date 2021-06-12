@@ -1,6 +1,6 @@
 ![Alt Text](https://user-images.githubusercontent.com/65868461/119200030-237ab780-ba5a-11eb-8f2f-1cbc34408a9e.gif)
                                   
-                                                ** ⁂ I <3 Free and Open Source ❧ **             
+                                                ⁂ I <3 Free and Open Source ❧             
                                   
 ```diff
 - I am a fan of projects such as OpenBSD, FreeBSD, PostgreSQL, PostGIS, QGIS, OSCAR EMR, Open Dental, OpenSSH, 
