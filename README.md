@@ -1,6 +1,8 @@
 ![Alt Text](https://user-images.githubusercontent.com/65868461/119200030-237ab780-ba5a-11eb-8f2f-1cbc34408a9e.gif)
                                   
-                                               ❧ I <3 Free and Open Source ⁂             
+                                               ❧ I <3 Free and Open Source ⁂   
+
+“If you have a talent, use it in every which way possible. Don’t hoard it. Don’t dole it out like a miser. Spend it lavishly, like a millionaire intent on going broke.” Brenda Francis
                                   
 ```diff
 - I am a fan of projects such as OpenBSD, FreeBSD, PostgreSQL, PostGIS, QGIS, OSCAR EMR, Open Dental, OpenSSH, 
