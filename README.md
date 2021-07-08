@@ -2,7 +2,7 @@
                                   
                                                ❧ I <3 Free and Open Source ⁂   
 
-“If you have a talent, use it in every which way possible. Don’t hoard it. Don’t dole it out like a miser. Spend it lavishly, like a millionaire intent on going broke.” Brenda Francis
+“If you have a talent, use it in every which way possible. Don’t hoard it. Don’t dole it out like a miser. Spend it lavishly, like a millionaire intent on going broke.” - Brenda Francis
                                   
 ```diff
 - I am a fan of projects such as OpenBSD, FreeBSD, PostgreSQL, PostGIS, QGIS, OSCAR EMR, Open Dental, OpenSSH, 
