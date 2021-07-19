@@ -5,7 +5,7 @@
 “If I can dream of a better land, where all my brothers walk hand-in-hand, tell me, why can't my dream come true?" - Sung by Elvis Presley, Written by Mac Davis
                                   
 ```diff
-- I am a fan of projects such as OpenBSD, FreeBSD, PostgreSQL, PostGIS, QGIS, OSCAR EMR, Open Dental, OpenSSH, 
+- I am a fan of projects such as Mirth, OpenBSD, FreeBSD, PostgreSQL, PostGIS, QGIS, OSCAR EMR, Open Dental, OpenSSH, 
 - OpenBGPD, Hadoop, Jenkins, Spark, LibreOffice, CentOS, openSUSE, Inkscape, Firefox the list goes on.. 
 - I support FOSS projects in different ways.
 
