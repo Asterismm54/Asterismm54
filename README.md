@@ -10,8 +10,8 @@
 - I support FOSS projects in different ways.
 
 - I work at a health system made up of hospitals, family health teams, long-term care homes, public health units, clinics, 
-and community organizations; I am an HIS subject matter expert and clinical application developer. I am a specialist 
-in health data privacy, DHIEX and interoperability standards such as HL7 and FHIR.
+- and community organizations; I am an HIS subject matter expert and clinical application developer. I am a specialist 
+- in health data privacy, DHIEX and interoperability standards such as HL7 and FHIR.
 ```
 "Please consider spatial autocorrelation in your analysis today!"
 "Watch out for the MAUP (Modifiable Area Unit Problem)"
