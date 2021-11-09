@@ -2,7 +2,7 @@
                                   
                                                ❧ I <3 Free and Open Source ⁂   
 
-“If I can dream of a better land, where all my brothers walk hand-in-hand, tell me, why can't my dream come true?" - Sung by Elvis Presley, Written by Mac Davis
+"If they want it, they'll have to move to the city" isn't a good attitude.
                                   
 ```diff
 - I am a fan of projects such as Mirth Connect, OpenBSD, FreeBSD, PostgreSQL, PostGIS, QGIS, OSCAR EMR, Open Dental, OpenSSH, 
