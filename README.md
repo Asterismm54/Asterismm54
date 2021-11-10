@@ -9,7 +9,7 @@
 - OpenBGPD, Hadoop, Jenkins, Wordpress, Spark, LibreOffice, CentOS, openSUSE, Inkscape, Firefox the list goes on.. 
 - I support FOSS projects in different ways.
 
-- I work at a health system made up of patients, families, caregivers, vendors, community organizations, hospitals, 
+- I work at a health system made up of patients, families, caregivers, vendors, unions, community organizations, hospitals, 
 - family health teams, Indigenous councils and health centres, long-term care, hospices, public health units, and clinics.
 - I am an HIS subject matter expert and clinical application developer. I am a specialist 
 - in health data privacy, DHIEX and interoperability standards such as HL7 and FHIR.
