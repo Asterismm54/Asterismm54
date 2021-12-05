@@ -2,7 +2,7 @@
                                   
                                                ❧ I <3 Free and Open Source ⁂   
 
-If you gaze long into the abyss, the abyss also gazes into you.
+Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein.
                                   
 ```diff
 - I am a fan of projects such as Mirth Connect, OpenBSD, FreeBSD, PostgreSQL, PostGIS, QGIS, OSCAR EMR, Open Dental, OpenSSH, 
