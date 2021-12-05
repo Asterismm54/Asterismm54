@@ -2,7 +2,7 @@
                                   
                                                ❧ I <3 Free and Open Source ⁂   
 
-"If they want it, they'll have to move to the city" is a ridiculous notion.
+If you gaze long into the abyss, the abyss also gazes into you.
                                   
 ```diff
 - I am a fan of projects such as Mirth Connect, OpenBSD, FreeBSD, PostgreSQL, PostGIS, QGIS, OSCAR EMR, Open Dental, OpenSSH, 
