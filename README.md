@@ -6,11 +6,11 @@
 - I am a fan of projects such as Mirth Connect, OpenBSD, FreeBSD, PostgreSQL, PostGIS, QGIS, OSCAR EMR, Open Dental, OpenSSH, 
 - OpenBMC, OpenBGPD, Hadoop, Jenkins, Wordpress, Spark, LibreOffice, CentOS, openSUSE, Inkscape, Firefox the list goes on.. 
 - I support FOSS projects in different ways.
-
--I started with a healthcare focus which has since grown into: general HIS, operating systems, interoperable technologies,
-cybersecurity, networking, firmware, virtualization, hosting, accessibility, resiliency, sustainability..
-
 ```
+I began my OSS journey with a healthcare focus which has since grown into: general HIS, general GIS, operating systems, 
+interoperable technologies, cybersecurity, networking, firmware, virtualization, hosting, accessibility, 
+resiliency, sustainability..
+
 "Please consider spatial autocorrelation in your analysis today!"
 "Watch out for the MAUP (Modifiable Area Unit Problem)"
 
