@@ -7,8 +7,8 @@
 - OpenBMC, OpenBGPD, Hadoop, Jenkins, Wordpress, Spark, LibreOffice, smartOS, openSUSE, Inkscape, Firefox the list goes on.. 
 - I support FOSS projects in different ways.
 ```
-I began my OSS journey with a healthcare focus which has since grown into: general HIS, general GIS, operating systems, 
-interoperable technologies, cybersecurity, networking, firmware, virtualization, hosting, accessibility, 
+I began my OSS journey with a healthcare focus which has since grown into: general HIS, general GIS, Electronic Medical Records (EMRs),
+operating systems, interoperable technologies, cybersecurity, networking, firmware, virtualization, hosting, accessibility, 
 resiliency, sustainability..
 
 "Please consider spatial autocorrelation in your analysis today!"
