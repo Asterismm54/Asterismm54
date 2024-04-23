@@ -4,7 +4,7 @@
                                   
 ```diff
 - I am a fan of projects such as Mirth Connect, OpenBSD, FreeBSD, PostgreSQL, PostGIS, QGIS, OSCAR EMR, Open Dental, OpenSSH, 
-- OpenBMC, OpenBGPD, Hadoop, Jenkins, Wordpress, Spark, LibreOffice, smartOS, openSUSE, Inkscape, R, Firefox the list goes on.. 
+- OpenBMC, OpenBGPD, Hadoop, Jenkins, Wordpress, Jupyter Notebooks, LibreOffice, smartOS, openSUSE, Inkscape, R, Firefox the list goes on.. 
 - I support FOSS projects in different ways.
 ```
 I began my OSS journey with a healthcare focus which has since grown into: various apps, general HIS, general GIS, Electronic Medical Records (EMRs),
