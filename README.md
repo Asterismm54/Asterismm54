@@ -8,10 +8,9 @@
 - I support FOSS projects in different ways.
 ```
 I began my OSS journey with a healthcare focus which has since grown into: various apps, general HIS, general GIS, Electronic Medical Records (EMRs),
-operating systems, interoperable technologies, ROI, prevention of vendor lock-in, cybersecurity, networking, firmware, virtualization, web dev,
+operating systems, interoperable technologies, portability, ROI, prevention of vendor lock-in, cybersecurity, networking, firmware, virtualization, web dev,
 hosting, standards, accessibility, inclusivity, resiliency, sustainability..
 
-"Please consider spatial autocorrelation in your analysis today!"
-"Watch out for the MAUP (Modifiable Area Unit Problem)"
+I am a proponent of POSIX standards!
 
 ![](https://komarev.com/ghpvc/?username=asterismm54&color=FF0000)
