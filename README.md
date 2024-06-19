@@ -11,6 +11,6 @@ I began my OSS journey with a healthcare focus which has since grown into: vario
 operating systems, interoperable technologies, portability, ROI, prevention of vendor lock-in, cybersecurity, networking, firmware, virtualization, web dev,
 hosting, standards, accessibility, inclusivity, resiliency, sustainability..
 
-I am a proponent of POSIX standards!
+I am a proponent of standards (even at the source code level).
 
 ![](https://komarev.com/ghpvc/?username=asterismm54&color=FF0000)
