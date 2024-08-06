@@ -7,10 +7,4 @@
 - OpenBMC, OpenBGPD, Hadoop, Jenkins, Wordpress, Jupyter Notebooks, LibreOffice, smartOS, openSUSE, Inkscape, R, Firefox the list goes on.. 
 - I support FOSS projects in different ways.
 ```
-I began my OSS journey with a healthcare focus which has since grown into: various apps, general HIS, general GIS, Electronic Medical Records (EMRs),
-operating systems, interoperable technologies, portability, ROI, prevention of vendor lock-in, cybersecurity, networking, firmware, virtualization, web dev,
-hosting, standards, accessibility, inclusivity, resiliency, sustainability..
-
-I am a proponent of standards (even at the source code level).
-
 ![](https://komarev.com/ghpvc/?username=asterismm54&color=FF0000)
