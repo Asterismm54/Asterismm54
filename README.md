@@ -4,7 +4,7 @@
                                   
 ```diff
 - I am a fan of projects such as Mirth Connect, OpenBSD, FreeBSD, NetBSD, PostgreSQL, PostGIS, QGIS, OSCAR EMR, Open Dental, OpenSSH, 
-- OpenBMC, OpenBGPD, Hadoop, Jenkins, Wordpress, Jupyter Notebooks, LibreOffice, illumos, openSUSE, Inkscape, R, Firefox the list goes on.. 
+- OpenBMC, OpenBGPD, Hadoop, Jenkins, Wordpress, Jupyter Notebooks, LibreOffice, illumos, openSUSE, Inkscape, R, R Studio Firefox the list goes on.. 
 - I support FOSS projects in different ways.
 ```
 ![](https://komarev.com/ghpvc/?username=asterismm54&color=FF0000)
