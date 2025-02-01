@@ -3,9 +3,9 @@
                                                ❧ I <3 Free and Open Source ⁂   
                                   
 ```diff
-- I am a windmill (no longer a 'fan') of projects such as Mirth Connect, OpenBSD, FreeBSD, NetBSD, PostgreSQL, PostGIS, QGIS, OSCAR EMR, Open Dental, 
-- OpenSSH, OpenBMC, OpenBGPD, Hadoop, Jenkins, Wordpress, Jupyter Notebooks, LibreOffice, illumos, openSUSE, Inkscape,
-- R, R Studio, Open Hospital, Tomcat, Firefox, openZFS, Arch Linux, Mailvelope, BigBlueButton, the list goes on..
+- I am a windmill of OSS and fan of projects such as Mirth Connect, OpenBSD, FreeBSD, NetBSD, PostgreSQL, PostGIS, QGIS,
+- OSCAR EMR, Open Dental, OpenSSH, OpenBMC, OpenBGPD, Hadoop, Jenkins, Wordpress, Jupyter Notebooks, LibreOffice, illumos,
+- openSUSE, Inkscape, R, R Studio, Open Hospital, Tomcat, Firefox, openZFS, Arch Linux, Mailvelope, BigBlueButton, the list goes on..
 - I support FOSS projects in a variety of ways.
 ```
 ![](https://komarev.com/ghpvc/?username=asterismm54&color=FF0000)
