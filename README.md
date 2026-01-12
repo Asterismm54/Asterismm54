@@ -4,7 +4,7 @@
                                   
 ```diff
 - I am a windmill of OSS and fan of projects such as Mirth Connect, OpenBSD, FreeBSD, NetBSD, PostgreSQL, PostGIS, QGIS,
-- OSCAR EMR, Open Dental, OpenSSH, OpenBMC, OpenBGPD, Hadoop, Jenkins, Wordpress, Jupyter Notebooks, LibreOffice, illumos,
+- OSCAR EMR, Open Dental, OpenSSH, OpenBMC, OpenBGPD, Hadoop, Jenkins, Wordpress, Jupyter Notebooks, LibreOffice, illumos, Jitsi,
 - openSUSE, Inkscape, Home Assistant, R, R Studio, Open Hospital, Tomcat, Firefox, openZFS, Arch Linux, Mailvelope, BigBlueButton..
 ```
 ![](https://komarev.com/ghpvc/?username=asterismm54&color=FF0000)
