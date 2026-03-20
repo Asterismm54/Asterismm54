@@ -12,6 +12,7 @@ Good reader, I would like to direct your attention to the following documents:
 - Acquiring Open Source Software (https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/acquiring-open-source-software.html)
 - Open Resource Exhange (https://code.open.canada.ca/en/index.html)
 - Open Resource Exchange - Open Source Software (https://code.open.canada.ca/en/open-source-softwares.html)
+- Open Source Standards (https://canada-ca.github.io/open-source-logiciel-libre/en/open-source-standards.html)
 - Guide for Using Open Source Software (https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-using-open-source-software.html)
 - Work in the Open by Default (https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards/work-open-default.html)
 ```
