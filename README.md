@@ -10,6 +10,7 @@
 Good reader, I would like to direct your attention to the following documents:
 - Directive on Service and Digital (https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32601)
 - Acquiring Open Source Software (https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/acquiring-open-source-software.html)
+- Developing a Concept Case for Open Source (https://canada-ca.github.io/open-source-logiciel-libre/en/guides/importance-of-concept-case.html)
 - Open Resource Exhange (https://code.open.canada.ca/en/index.html)
 - Open Resource Exchange - Open Source Software (https://code.open.canada.ca/en/open-source-softwares.html)
 - Open Source Standards (https://canada-ca.github.io/open-source-logiciel-libre/en/open-source-standards.html)
