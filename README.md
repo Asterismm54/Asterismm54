@@ -5,7 +5,7 @@
 ```diff
 - I am a windmill of OSS and fan of projects such as Mirth Connect, OpenBSD, FreeBSD, NetBSD, GhostBSD, PostgreSQL, PostGIS, QGIS,
 - OSCAR EMR, CARLOS EMR, Open Dental, OpenSSH, OpenBMC, OpenBGPD, Hadoop, Jenkins, Wordpress, NGINX, U-Boot, Jupyter Notebook, LibreOffice, illumos, Jitsi,
-- openSUSE, Inkscape, Home Assistant, R, R Studio, Open Hospital, Tomcat, Firefox, openZFS, Arch Linux, Mailvelope, BigBlueButton..
+- openSUSE, Inkscape, Home Assistant, Ansible, R, R Studio, Open Hospital, Tomcat, Firefox, openZFS, Arch Linux, Mailvelope, BigBlueButton..
 
 Good reader, I would like to direct your attention to the following documents:
 - Directive on Service and Digital (https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32601)
